@@ -1,0 +1,28 @@
+.out
+.idea
+*.jar
+
+
+#idea
+.idea/
+/.idea/
+*.ipr
+*.iml
+*.iws
+
+#eclipse ignore
+.settings
+.project
+.classpath
+
+#tmp file
+*.cache
+*.diff
+*.patch
+*.tmp
+
+# Compiled class file
+*.class
+
+# Log file
+*.log

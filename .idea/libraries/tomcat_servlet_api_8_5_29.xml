@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tomcat-servlet-api-8.5.29">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/tomcat-servlet-api-8.5.29.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
