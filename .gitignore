@@ -1,11 +1,9 @@
-.out
+out
 .idea
 *.jar
 
 
 #idea
-.idea/
-/.idea/
 *.ipr
 *.iml
 *.iws
